@@ -1,0 +1,14 @@
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\OptionsPricing.exe.config
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\OptionsPricing.exe
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\OptionsPricing.pdb
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.csprojAssemblyReference.cache
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.OptionsPricing.resources
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.Properties.Resources.resources
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.csproj.GenerateResource.cache
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.csproj.CoreCompileInputs.cache
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.exe
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.pdb
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\Accord.dll.config
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\MathNet.Numerics.dll
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\bin\Debug\MathNet.Numerics.xml
+D:\DEV\.NetProjects\OptionsPricing\OptionsPricing\OptionsPricing\obj\Debug\OptionsPricing.csproj.CopyComplete
